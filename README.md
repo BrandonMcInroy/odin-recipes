@@ -1,1 +1,1 @@
-This is a basic recipe website built with only HTML.  As it will only be built with HTML, it will not look pretty, but it will show my understanding of how to use HTML.
+This is a basic recipe website built with only HTML.  As it will only be built with HTML, it will not look pretty, but it will show my understanding of how to use HTML.  This project will also show that I am able to use Git and push to GitHub.
