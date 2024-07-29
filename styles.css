@@ -6,6 +6,15 @@
 a {
     text-decoration: none;
     color: green;
+    background-color: lightgrey;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.index-box {
+    text-align: center;
 }
 
 .recipetitle {
@@ -23,8 +32,18 @@ a {
 
 ul, ol, li {
     background: lightgrey;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+button {
+    background-color: lightgray;
+    width: 50%;
+    font-size: 18px;
+    padding: 20px 50px;
 }
 
 .indexlist {
     background: none;
+    list-style-type: none;
 }
